@@ -1,0 +1,1401 @@
+customer_id,region,date_of_birth,marketing_opt
+1,Scotland,24/01/1966,1
+2,Guernsey/Jersey/Isle of Man,27/05/1967,0
+3,South West,16/12/1953,1
+4,South West,12/08/1960,1
+5,Yorkshire/Humberside,03/10/1951,1
+6,Guernsey/Jersey/Isle of Man,13/04/1946,1
+7,Yorkshire/Humberside,21/12/1956,0
+8,Yorkshire/Humberside,16/05/1953,0
+9,West Midlands,03/02/1963,0
+10,East Midlands,09/06/1953,1
+11,East Midlands,23/12/1956,1
+12,East Midlands,27/07/1943,1
+13,East Midlands,08/02/1950,1
+14,Scotland,08/05/1954,1
+15,Guernsey/Jersey/Isle of Man,25/08/1945,0
+16,South East,08/06/1959,0
+17,Guernsey/Jersey/Isle of Man,23/09/1964,1
+18,Wales,20/10/1952,0
+19,Scotland,03/11/1955,0
+20,Guernsey/Jersey/Isle of Man,27/09/1945,1
+21,West Midlands,10/08/1944,1
+22,Wales,23/04/1964,1
+23,South West,01/09/1953,0
+24,South West,05/09/1946,0
+25,Guernsey/Jersey/Isle of Man,03/04/1946,0
+26,Guernsey/Jersey/Isle of Man,14/12/1956,1
+27,North East,21/04/1956,0
+28,North East,28/07/1977,1
+29,Northern Ireland,11/03/1961,0
+30,Northern Ireland,14/06/1965,0
+31,South East,02/07/1954,0
+32,Northern Ireland,28/05/1955,0
+33,Guernsey/Jersey/Isle of Man,26/01/1962,0
+34,Guernsey/Jersey/Isle of Man,02/11/1950,1
+35,Yorkshire/Humberside,20/08/1948,1
+36,Yorkshire/Humberside,21/01/1953,1
+37,Guernsey/Jersey/Isle of Man,24/05/1948,1
+38,Yorkshire/Humberside,28/05/1947,1
+39,Guernsey/Jersey/Isle of Man,19/03/1956,1
+40,North West,19/03/1956,0
+41,West Midlands,10/07/1952,0
+42,North East,11/10/1972,0
+43,Wales,27/05/1942,0
+44,West Midlands,23/03/1950,1
+45,Guernsey/Jersey/Isle of Man,18/07/1950,0
+46,Scotland,07/12/1970,0
+47,Yorkshire/Humberside,25/08/1972,0
+48,Scotland,27/03/1957,0
+49,South East,06/06/1952,0
+50,South East,20/09/1965,1
+51,North East,23/03/1946,0
+52,Yorkshire/Humberside,02/12/1963,0
+53,Scotland,05/12/1947,0
+54,Scotland,28/06/1974,0
+55,Scotland,24/06/1960,0
+56,Scotland,11/09/1976,0
+57,West Midlands,15/11/1969,0
+58,South West,21/10/1960,0
+59,Guernsey/Jersey/Isle of Man,20/11/1978,0
+60,Yorkshire/Humberside,18/05/1971,1
+61,Scotland,11/11/1957,1
+62,Greater London,02/08/1943,0
+63,North West,08/03/1963,0
+64,North West,19/09/1965,0
+65,West Midlands,15/02/1951,1
+66,West Midlands,06/11/1969,0
+67,South West,14/05/1954,1
+68,Scotland,09/03/1954,0
+69,Yorkshire/Humberside,01/10/1951,1
+70,Guernsey/Jersey/Isle of Man,03/03/1966,0
+71,North East,27/09/1964,1
+72,Scotland,01/08/1951,0
+73,Guernsey/Jersey/Isle of Man,29/08/1970,1
+74,Guernsey/Jersey/Isle of Man,14/07/1953,1
+75,Guernsey/Jersey/Isle of Man,05/08/1950,1
+76,Guernsey/Jersey/Isle of Man,08/10/1949,0
+77,Guernsey/Jersey/Isle of Man,25/02/1964,1
+78,Guernsey/Jersey/Isle of Man,20/10/1960,1
+79,North East,20/02/1957,1
+80,Guernsey/Jersey/Isle of Man,17/06/1979,0
+81,Guernsey/Jersey/Isle of Man,11/02/1963,1
+82,Yorkshire/Humberside,11/02/1946,0
+83,South West,03/02/1965,1
+84,South West,24/11/1942,1
+85,South West,01/10/1947,1
+86,South West,06/06/1953,1
+87,South East,12/02/1943,0
+88,South East,26/09/1955,0
+89,Scotland,19/08/1948,0
+90,Scotland,20/08/1958,1
+91,East Midlands,30/03/1946,0
+92,West Midlands,20/10/1964,1
+93,West Midlands,14/04/1964,1
+94,West Midlands,05/06/1950,1
+95,Yorkshire/Humberside,14/05/1971,1
+96,Greater London,15/03/1961,0
+97,North West,26/03/1959,0
+98,Guernsey/Jersey/Isle of Man,24/10/1945,1
+99,Greater London,30/04/1951,1
+100,Yorkshire/Humberside,10/10/1970,0
+101,Guernsey/Jersey/Isle of Man,07/12/1961,1
+102,South West,23/05/1964,1
+103,South West,05/10/1969,1
+104,East Midlands,28/05/1948,0
+105,North East,08/12/1952,0
+106,South West,09/10/1948,1
+107,South West,14/10/1961,0
+108,Scotland,29/04/1942,0
+109,Scotland,06/04/1968,0
+110,Scotland,10/09/1969,1
+111,East Midlands,07/07/1951,1
+112,West Midlands,15/02/1965,1
+113,South West,12/03/1959,1
+114,Northern Ireland,19/05/1954,0
+115,West Midlands,02/03/1979,0
+116,Guernsey/Jersey/Isle of Man,15/12/1950,1
+117,South East,20/03/1947,0
+118,Northern Ireland,25/06/1950,0
+119,Wales,02/04/1948,1
+120,West Midlands,04/05/1954,1
+121,South West,10/04/1949,0
+122,North East,04/08/1948,1
+123,Wales,19/12/1949,1
+124,Wales,08/12/1962,0
+125,Greater London,04/01/1971,1
+126,Guernsey/Jersey/Isle of Man,19/09/1954,1
+127,Guernsey/Jersey/Isle of Man,06/11/1951,1
+128,Wales,10/10/1945,1
+129,West Midlands,05/05/1954,1
+130,South West,16/07/1948,0
+131,Yorkshire/Humberside,15/03/1947,1
+132,South West,19/05/1946,1
+133,South West,04/06/1978,1
+134,Yorkshire/Humberside,18/06/1973,0
+135,West Midlands,13/12/1940,1
+136,South West,30/03/1968,1
+137,West Midlands,05/09/1969,1
+138,South West,06/10/1972,1
+139,Greater London,23/09/1982,0
+140,Northern Ireland,15/07/1985,0
+141,Scotland,28/01/1958,0
+142,South East,12/06/1950,1
+143,West Midlands,09/10/1947,1
+144,South East,25/11/1968,1
+145,Guernsey/Jersey/Isle of Man,19/10/1958,0
+146,Yorkshire/Humberside,05/05/1978,1
+147,Yorkshire/Humberside,28/02/1970,1
+148,Scotland,05/01/1946,0
+149,North East,23/02/1954,0
+150,North East,13/04/1954,0
+151,Yorkshire/Humberside,12/10/1947,1
+152,Yorkshire/Humberside,30/08/1952,1
+153,South West,22/06/1961,0
+154,West Midlands,18/05/1962,0
+155,South West,15/08/1961,1
+156,South West,19/11/1941,1
+157,North West,06/03/1944,0
+158,Wales,03/02/1950,1
+159,North East,02/11/1946,1
+160,East Midlands,04/08/1954,1
+161,West Midlands,24/07/1946,0
+162,Wales,15/10/1953,0
+163,Northern Ireland,08/08/1988,0
+164,North East,04/02/1993,1
+165,South West,06/01/1943,1
+166,West Midlands,24/08/1954,1
+167,Scotland,28/08/1946,1
+168,Greater London,07/06/1943,1
+169,Scotland,29/05/1960,0
+170,Yorkshire/Humberside,29/02/1952,0
+171,Yorkshire/Humberside,05/05/1958,0
+172,East Midlands,17/08/1970,0
+173,Scotland,06/07/1944,1
+174,South West,08/10/1957,0
+175,South West,30/06/1973,0
+176,Scotland,18/09/1948,0
+177,West Midlands,19/08/1994,0
+178,Wales,12/06/1954,0
+179,Wales,11/03/1949,1
+180,Northern Ireland,24/03/1952,0
+181,Greater London,11/05/1943,0
+182,North West,17/11/1960,0
+183,West Midlands,09/02/1960,1
+184,South West,07/02/1954,1
+185,South West,22/04/1966,0
+186,West Midlands,31/10/1944,1
+187,South East,25/11/1943,0
+188,North East,22/12/1942,1
+189,Wales,06/07/1948,0
+190,Wales,24/05/1956,0
+191,Wales,12/07/1943,0
+192,South West,30/05/1947,1
+193,South West,12/09/1947,1
+194,Greater London,31/07/1953,1
+195,Greater London,03/01/1950,1
+196,Scotland,02/03/1960,0
+197,Northern Ireland,01/11/1956,0
+198,South West,28/08/1956,0
+199,Northern Ireland,24/04/1949,0
+200,Guernsey/Jersey/Isle of Man,11/05/1958,1
+201,South West,06/09/1967,1
+202,Guernsey/Jersey/Isle of Man,14/10/1953,0
+203,Guernsey/Jersey/Isle of Man,04/09/1969,0
+204,Guernsey/Jersey/Isle of Man,20/05/1963,0
+205,South West,17/12/1945,0
+206,Guernsey/Jersey/Isle of Man,21/03/1954,1
+207,Wales,13/12/1974,0
+208,Wales,16/01/1961,0
+209,Wales,22/12/1954,1
+210,Yorkshire/Humberside,18/12/1960,1
+211,Scotland,18/01/1947,1
+212,North East,30/06/1945,1
+213,Greater London,14/04/1944,1
+214,Greater London,28/11/1941,0
+215,Scotland,04/08/1960,0
+216,Wales,22/05/1957,0
+217,Greater London,27/09/1955,1
+218,Wales,16/03/1965,0
+219,Wales,02/12/1964,0
+220,Scotland,12/10/1949,0
+221,Wales,28/09/1950,0
+222,Wales,26/11/1956,0
+223,Scotland,03/07/1952,0
+224,West Midlands,02/02/1960,1
+225,West Midlands,26/06/1950,0
+226,North East,20/03/1951,1
+227,South West,23/09/1954,0
+228,East Midlands,25/12/1969,0
+229,Northern Ireland,08/09/1941,1
+230,Guernsey/Jersey/Isle of Man,03/03/1951,0
+231,West Midlands,11/08/1946,0
+232,South West,20/05/1969,1
+233,West Midlands,08/06/1947,1
+234,Scotland,29/09/1947,1
+235,South West,14/07/1944,1
+236,Scotland,30/09/1946,1
+237,Scotland,07/01/1947,1
+238,Wales,13/05/1942,0
+239,Wales,20/03/1951,0
+240,West Midlands,16/05/1973,1
+241,Guernsey/Jersey/Isle of Man,01/08/1947,0
+242,Wales,10/03/1968,0
+243,Wales,27/03/1944,0
+244,Guernsey/Jersey/Isle of Man,13/05/1950,0
+245,Guernsey/Jersey/Isle of Man,05/09/1969,0
+246,Wales,23/10/1971,0
+247,West Midlands,29/07/1948,1
+248,South East,02/04/1966,0
+249,Guernsey/Jersey/Isle of Man,05/03/1962,1
+250,West Midlands,22/11/1952,0
+251,Northern Ireland,13/08/1993,0
+252,Northern Ireland,28/12/1959,0
+253,Scotland,19/12/1950,1
+254,Scotland,01/07/1968,1
+255,Scotland,29/05/1962,1
+256,West Midlands,01/09/1958,0
+257,Scotland,24/03/1950,0
+258,Scotland,29/12/1941,1
+259,Scotland,15/04/1969,1
+260,South West,01/10/1958,1
+261,Scotland,10/10/1956,0
+262,South West,29/11/1946,0
+263,West Midlands,27/01/1960,0
+264,West Midlands,04/05/1950,0
+265,South East,17/05/1942,0
+266,Guernsey/Jersey/Isle of Man,05/04/1958,1
+267,North East,01/08/1955,1
+268,Guernsey/Jersey/Isle of Man,05/03/1967,1
+269,Guernsey/Jersey/Isle of Man,20/08/1960,0
+270,South West,30/07/1946,0
+271,East Midlands,17/05/1974,0
+272,West Midlands,07/10/1945,0
+273,East Midlands,12/04/1948,0
+274,East Midlands,15/04/1963,1
+275,South East,08/09/1959,0
+276,South West,29/01/1955,0
+277,Northern Ireland,19/02/1953,0
+278,Greater London,28/02/1955,0
+279,Scotland,19/12/1952,1
+280,North West,07/08/1961,1
+281,Wales,15/05/1947,1
+282,Wales,09/04/1949,1
+283,Greater London,20/02/1945,1
+284,Guernsey/Jersey/Isle of Man,28/11/1951,0
+285,Guernsey/Jersey/Isle of Man,21/03/1945,0
+286,South West,21/11/1944,0
+287,East Anglia,30/07/1952,1
+288,Guernsey/Jersey/Isle of Man,07/05/1945,1
+289,Guernsey/Jersey/Isle of Man,13/12/1961,0
+290,Guernsey/Jersey/Isle of Man,30/08/1948,0
+291,Wales,19/02/1947,0
+292,Wales,14/03/1950,0
+293,West Midlands,06/05/1947,0
+294,South East,16/01/1958,0
+295,Greater London,02/10/1959,1
+296,Wales,02/03/1946,0
+297,South West,22/08/1954,0
+298,Yorkshire/Humberside,10/02/1947,0
+299,West Midlands,22/03/1952,0
+300,North West,09/01/1953,0
+301,Scotland,01/08/1944,1
+302,West Midlands,07/11/1944,0
+303,West Midlands,21/06/1963,1
+304,North West,21/03/1942,1
+305,Yorkshire/Humberside,12/10/1949,0
+306,Wales,24/02/1950,1
+307,Northern Ireland,30/06/1941,0
+308,South West,12/03/1941,0
+309,South West,28/04/1969,0
+310,South West,10/11/1952,1
+311,Northern Ireland,23/03/1955,0
+312,North West,11/06/1942,0
+313,West Midlands,23/04/1955,1
+314,Wales,02/01/1955,1
+315,Wales,27/11/1961,1
+316,South West,03/11/1955,0
+317,Guernsey/Jersey/Isle of Man,17/12/1951,0
+318,South East,24/09/1954,0
+319,Guernsey/Jersey/Isle of Man,15/01/1956,1
+320,West Midlands,15/02/1948,1
+321,Yorkshire/Humberside,25/03/1949,1
+322,Scotland,16/05/1947,0
+323,South East,11/05/1941,0
+324,South East,31/12/1942,0
+325,Guernsey/Jersey/Isle of Man,25/03/1945,0
+326,Scotland,10/03/1953,1
+327,South West,27/10/1956,0
+328,South West,24/03/1958,1
+329,West Midlands,07/06/1959,0
+330,South East,24/08/1966,0
+331,South East,03/09/1963,0
+332,West Midlands,15/01/1991,1
+333,West Midlands,05/02/1953,0
+334,Northern Ireland,20/04/1957,1
+335,West Midlands,09/08/1958,1
+336,West Midlands,28/02/1959,1
+337,Northern Ireland,08/09/1972,0
+338,East Midlands,01/01/1950,0
+339,West Midlands,12/05/1982,0
+340,East Midlands,12/03/1979,1
+341,Scotland,01/01/1950,0
+342,Yorkshire/Humberside,02/04/1948,0
+343,West Midlands,28/01/1949,1
+344,West Midlands,09/12/1942,1
+345,South West,31/12/1943,1
+346,Scotland,07/07/1946,1
+347,West Midlands,15/05/1950,1
+348,West Midlands,10/04/1955,1
+349,Scotland,29/11/1950,0
+350,Greater London,04/02/1982,1
+351,West Midlands,31/08/1945,0
+352,Greater London,19/09/1947,1
+353,West Midlands,13/12/1948,0
+354,Greater London,25/02/1966,1
+355,Scotland,11/08/1972,0
+356,North East,25/10/1958,0
+357,Scotland,17/07/1956,0
+358,Scotland,24/07/1965,0
+359,Guernsey/Jersey/Isle of Man,05/02/1956,1
+360,Scotland,24/02/1954,0
+361,Scotland,15/09/1945,1
+362,East Midlands,20/12/1961,1
+363,East Midlands,20/02/1942,1
+364,East Midlands,01/01/1950,1
+365,North West,12/01/1959,0
+366,Northern Ireland,05/02/1953,1
+367,Guernsey/Jersey/Isle of Man,01/01/1950,0
+368,North West,02/01/1958,1
+369,Scotland,01/01/1950,0
+370,Guernsey/Jersey/Isle of Man,01/01/1950,0
+371,South West,01/01/1950,0
+372,South West,01/01/1950,1
+373,Guernsey/Jersey/Isle of Man,01/05/1972,1
+374,South West,01/01/1950,1
+375,Yorkshire/Humberside,24/03/1961,0
+376,Yorkshire/Humberside,02/01/1958,0
+377,West Midlands,01/01/1950,1
+378,North East,09/07/1979,0
+379,Greater London,11/11/1952,0
+380,North East,01/01/1950,0
+381,North East,01/01/1950,0
+382,Greater London,04/12/1955,0
+383,Northern Ireland,25/09/1970,1
+384,Yorkshire/Humberside,13/05/1964,0
+385,Scotland,04/02/1955,0
+386,Scotland,14/01/1978,0
+387,North East,28/10/1963,0
+388,West Midlands,25/07/1945,0
+389,East Midlands,16/04/1961,1
+390,East Midlands,05/09/1966,1
+391,Scotland,13/04/1951,1
+392,East Midlands,29/06/1949,1
+393,Scotland,28/12/1948,1
+394,Scotland,08/04/1946,1
+395,West Midlands,22/09/1959,0
+396,West Midlands,15/01/1949,0
+397,North West,04/04/1947,1
+398,South West,21/01/1948,0
+399,South West,05/05/1962,1
+400,South West,28/02/1947,0
+401,North West,19/08/1958,1
+402,West Midlands,18/12/1954,0
+403,West Midlands,05/05/1954,0
+404,West Midlands,31/07/1960,0
+405,South West,13/03/1956,1
+406,South West,15/02/1962,1
+407,Greater London,13/10/1951,1
+408,South West,01/04/1945,0
+409,Scotland,04/03/1952,0
+410,South West,09/01/1950,0
+411,West Midlands,22/03/1947,0
+412,Scotland,27/07/1954,0
+413,Scotland,22/02/1946,1
+414,Scotland,22/01/1960,0
+415,Northern Ireland,10/04/1947,0
+416,West Midlands,23/04/1941,1
+417,Guernsey/Jersey/Isle of Man,28/10/1950,0
+418,North West,26/09/1940,0
+419,West Midlands,24/03/1958,0
+420,Guernsey/Jersey/Isle of Man,08/11/1953,0
+421,West Midlands,22/02/1965,0
+422,Guernsey/Jersey/Isle of Man,22/11/1975,0
+423,North East,28/06/1955,0
+424,Wales,31/12/1943,0
+425,Guernsey/Jersey/Isle of Man,25/04/1966,0
+426,Scotland,14/09/1949,0
+427,Guernsey/Jersey/Isle of Man,29/08/1948,0
+428,Wales,02/07/1967,0
+429,South West,01/01/1950,1
+430,Guernsey/Jersey/Isle of Man,24/03/1961,1
+431,South West,02/01/1958,0
+432,South West,08/04/1949,1
+433,East Midlands,28/11/1951,0
+434,Scotland,30/07/1941,1
+435,East Midlands,16/06/1968,1
+436,Scotland,24/10/1946,0
+437,Yorkshire/Humberside,01/08/1949,0
+438,West Midlands,16/04/1958,1
+439,Guernsey/Jersey/Isle of Man,16/12/1961,0
+440,Wales,31/12/1948,0
+441,North East,23/04/1960,0
+442,North West,26/09/1961,0
+443,Guernsey/Jersey/Isle of Man,28/08/1947,1
+444,Guernsey/Jersey/Isle of Man,20/12/1948,1
+445,Guernsey/Jersey/Isle of Man,03/05/1948,1
+446,West Midlands,14/09/1991,0
+447,West Midlands,14/04/1954,0
+448,West Midlands,15/11/1943,1
+449,Scotland,31/10/1991,1
+450,South East,10/01/1968,0
+451,South East,13/11/1957,0
+452,South East,21/05/1965,0
+453,South East,10/06/1956,0
+454,Guernsey/Jersey/Isle of Man,26/10/1947,0
+455,Scotland,29/05/1952,0
+456,Greater London,01/09/1949,1
+457,East Midlands,14/12/1958,1
+458,South West,26/12/1944,1
+459,Greater London,29/09/1944,1
+460,Guernsey/Jersey/Isle of Man,15/09/1957,0
+461,Guernsey/Jersey/Isle of Man,26/01/1958,0
+462,Yorkshire/Humberside,03/02/1952,1
+463,North West,25/08/1946,1
+464,Scotland,12/04/1955,0
+465,West Midlands,02/01/1958,0
+466,Scotland,01/01/1950,1
+467,Scotland,08/03/1971,0
+468,Scotland,03/08/1963,0
+469,Guernsey/Jersey/Isle of Man,23/09/1954,0
+470,Guernsey/Jersey/Isle of Man,31/08/1957,1
+471,Guernsey/Jersey/Isle of Man,01/01/1950,0
+472,Yorkshire/Humberside,13/06/1969,1
+473,North East,01/01/1950,0
+474,South West,01/01/1950,0
+475,West Midlands,01/01/1950,0
+476,West Midlands,02/04/1948,1
+477,West Midlands,01/01/1950,1
+478,Guernsey/Jersey/Isle of Man,29/01/1957,1
+479,Scotland,19/10/1954,0
+480,West Midlands,05/02/1950,1
+481,West Midlands,09/02/1973,1
+482,Yorkshire/Humberside,01/01/1950,1
+483,Scotland,02/01/1958,0
+484,Scotland,01/01/1950,1
+485,Greater London,19/11/1963,1
+486,Scotland,01/01/1950,1
+487,North East,27/10/1955,0
+488,North East,12/08/1947,0
+489,Scotland,01/01/1950,1
+490,South West,01/01/1950,1
+491,Guernsey/Jersey/Isle of Man,20/06/1970,0
+492,East Midlands,01/01/1950,1
+493,North West,07/07/1947,0
+494,East Midlands,01/01/1950,1
+495,North East,15/04/1945,0
+496,Guernsey/Jersey/Isle of Man,11/04/1949,1
+497,West Midlands,05/10/1948,0
+498,South West,02/10/1949,0
+499,North West,15/12/1961,0
+500,North West,15/12/1961,1
+501,North West,01/01/1950,0
+502,South East,24/04/1964,1
+503,Scotland,12/03/1950,0
+504,Scotland,28/06/1956,0
+505,Greater London,01/01/1950,0
+506,Northern Ireland,01/01/1950,1
+507,West Midlands,01/01/1950,0
+508,North West,01/01/1950,0
+509,South West,18/11/1963,0
+510,Yorkshire/Humberside,26/04/1955,1
+511,South West,30/12/1942,1
+512,Scotland,10/10/1955,1
+513,Wales,16/05/1970,1
+514,South East,26/12/1974,1
+515,East Midlands,17/09/1943,1
+516,Yorkshire/Humberside,06/03/1950,0
+517,Scotland,30/08/1949,0
+518,North East,09/08/1966,1
+519,Yorkshire/Humberside,02/08/1973,1
+520,South West,17/05/1955,0
+521,North West,31/05/1954,1
+522,South West,07/01/1965,1
+523,North West,24/11/1942,1
+524,Northern Ireland,01/10/1947,0
+525,Guernsey/Jersey/Isle of Man,13/09/1972,1
+526,South East,17/01/1969,1
+527,South West,18/10/1953,1
+528,Guernsey/Jersey/Isle of Man,01/10/1949,1
+529,Scotland,10/05/1941,1
+530,West Midlands,22/07/1968,0
+531,West Midlands,23/05/1959,0
+532,Wales,24/04/1959,1
+533,West Midlands,25/02/1971,1
+534,Wales,19/08/1944,0
+535,Wales,24/11/1951,1
+536,Wales,05/08/1968,0
+537,South East,18/02/1962,0
+538,West Midlands,22/06/1948,0
+539,West Midlands,02/01/1951,0
+540,West Midlands,08/07/1959,0
+541,West Midlands,30/06/1954,0
+542,East Midlands,02/09/1954,1
+543,West Midlands,29/10/1942,0
+544,West Midlands,17/01/1969,1
+545,Wales,03/02/1958,0
+546,Wales,04/04/1959,0
+547,Wales,16/02/1966,0
+548,Yorkshire/Humberside,07/10/1954,1
+549,Northern Ireland,12/02/1968,0
+550,Scotland,27/02/1946,0
+551,North East,02/11/1956,1
+552,North West,14/12/1974,0
+553,Guernsey/Jersey/Isle of Man,20/12/1959,1
+554,South East,21/11/1959,0
+555,Guernsey/Jersey/Isle of Man,02/12/1960,1
+556,East Midlands,22/10/1943,1
+557,Guernsey/Jersey/Isle of Man,12/07/1965,1
+558,Scotland,23/03/1964,0
+559,Guernsey/Jersey/Isle of Man,12/09/1964,0
+560,East Midlands,05/11/1959,0
+561,South West,24/12/1946,0
+562,North East,29/08/1955,1
+563,North East,16/04/1955,1
+564,West Midlands,10/06/1957,1
+565,West Midlands,06/02/1966,0
+566,North East,09/02/1962,0
+567,North East,09/06/1966,0
+568,Greater London,17/07/1963,0
+569,Yorkshire/Humberside,18/09/1941,0
+570,Greater London,11/09/1951,0
+571,Yorkshire/Humberside,12/07/1973,0
+572,South West,03/07/1954,0
+573,South East,24/01/1958,0
+574,Greater London,27/11/1955,0
+575,South East,13/12/1952,0
+576,Greater London,23/02/1950,0
+577,Scotland,18/04/1950,0
+578,North West,26/01/1971,0
+579,Scotland,15/03/1971,1
+580,Scotland,25/07/1961,0
+581,North East,11/04/1967,0
+582,East Midlands,15/04/1953,0
+583,North West,30/05/1956,0
+584,Guernsey/Jersey/Isle of Man,08/07/1982,0
+585,Scotland,20/04/1952,0
+586,Scotland,28/04/1958,0
+587,Northern Ireland,08/07/1941,1
+588,South West,07/04/1947,1
+589,Wales,18/01/1974,1
+590,West Midlands,11/03/1951,0
+591,West Midlands,29/12/1970,0
+592,Greater London,16/08/1947,1
+593,West Midlands,17/12/1957,0
+594,South West,21/08/1957,0
+595,Greater London,24/09/1963,0
+596,Greater London,13/09/1966,0
+597,North East,13/03/1951,0
+598,West Midlands,09/02/1951,0
+599,North East,23/11/1955,0
+600,North East,11/11/1953,0
+601,North East,24/08/1956,1
+602,Yorkshire/Humberside,12/05/1958,0
+603,North East,26/04/1951,0
+604,North East,08/12/1959,0
+605,Yorkshire/Humberside,19/10/1974,1
+606,South East,29/04/1971,0
+607,West Midlands,28/12/1981,0
+608,South West,22/01/1959,0
+609,South West,09/12/1968,0
+610,Northern Ireland,14/07/1971,0
+611,Northern Ireland,02/08/1952,1
+612,Scotland,17/03/1956,0
+613,Scotland,25/07/1957,0
+614,South West,03/04/1961,0
+615,South West,12/12/1949,0
+616,North West,14/09/1960,0
+617,East Midlands,08/11/1954,1
+618,North West,07/11/1961,1
+619,Scotland,09/06/1966,0
+620,South West,23/12/1951,0
+621,Scotland,21/01/1955,1
+622,Yorkshire/Humberside,01/05/1960,0
+623,South West,19/04/1961,0
+624,Northern Ireland,13/04/1990,0
+625,South East,18/07/1956,0
+626,South West,21/12/1959,1
+627,South East,22/07/1948,0
+628,South West,20/01/1953,1
+629,South West,04/11/1964,1
+630,North West,14/03/1969,1
+631,Yorkshire/Humberside,14/07/1955,0
+632,North West,13/01/1958,1
+633,Guernsey/Jersey/Isle of Man,01/06/1964,0
+634,Greater London,14/06/1953,1
+635,Yorkshire/Humberside,17/03/1953,0
+636,Scotland,26/03/1964,0
+637,West Midlands,08/11/1968,0
+638,North West,03/03/1963,1
+639,North East,05/06/1959,0
+640,North East,15/11/1940,1
+641,North East,08/11/1963,1
+642,Guernsey/Jersey/Isle of Man,22/03/1966,0
+643,Yorkshire/Humberside,28/01/1944,0
+644,Guernsey/Jersey/Isle of Man,20/05/1954,0
+645,North East,12/08/1987,0
+646,East Midlands,29/12/1960,1
+647,Wales,19/12/1964,1
+648,South West,07/12/1942,0
+649,Scotland,29/11/1940,0
+650,Scotland,09/08/1967,0
+651,Scotland,02/04/1959,0
+652,Guernsey/Jersey/Isle of Man,20/02/1960,1
+653,North East,23/03/1960,0
+654,Guernsey/Jersey/Isle of Man,05/03/1970,0
+655,Northern Ireland,05/09/1968,0
+656,North East,18/07/1972,1
+657,North East,02/05/1945,0
+658,Yorkshire/Humberside,17/02/1947,0
+659,South East,04/03/1953,0
+660,Greater London,20/11/1966,0
+661,South West,21/11/1954,0
+662,Wales,26/09/1950,1
+663,East Midlands,22/06/1946,0
+664,South West,24/09/1956,0
+665,East Midlands,14/12/1942,0
+666,South West,24/05/1944,0
+667,South West,24/05/1959,0
+668,Northern Ireland,08/06/1950,1
+669,Northern Ireland,18/11/1945,0
+670,Northern Ireland,08/04/1947,0
+671,Guernsey/Jersey/Isle of Man,01/12/1967,0
+672,Scotland,30/01/1961,1
+673,Scotland,12/11/1963,0
+674,Scotland,14/08/1942,1
+675,North East,15/03/1952,0
+676,Scotland,18/03/1951,1
+677,East Midlands,25/06/1965,1
+678,Northern Ireland,15/11/1943,0
+679,South West,22/12/1968,1
+680,South West,03/08/1946,1
+681,West Midlands,30/07/1947,0
+682,West Midlands,13/02/1950,1
+683,Northern Ireland,10/03/1950,0
+684,West Midlands,15/04/1965,0
+685,West Midlands,03/07/1966,0
+686,West Midlands,21/07/1954,1
+687,West Midlands,12/04/1964,0
+688,West Midlands,07/02/1952,0
+689,Scotland,01/03/1978,0
+690,East Midlands,15/11/1942,1
+691,Guernsey/Jersey/Isle of Man,16/07/1965,1
+692,Guernsey/Jersey/Isle of Man,03/12/1950,1
+693,West Midlands,16/06/1952,1
+694,West Midlands,22/10/1948,1
+695,Scotland,02/05/1948,0
+696,Yorkshire/Humberside,12/04/1948,0
+697,Wales,07/08/1949,1
+698,North East,15/04/1952,0
+699,West Midlands,10/12/1960,0
+700,Wales,17/07/1953,0
+701,South West,19/02/1952,0
+702,Guernsey/Jersey/Isle of Man,04/01/1951,1
+703,Guernsey/Jersey/Isle of Man,10/05/1946,1
+704,North East,27/11/1946,1
+705,Yorkshire/Humberside,07/06/1949,1
+706,North West,22/10/1960,1
+707,Northern Ireland,27/03/1972,1
+708,West Midlands,21/12/1945,0
+709,East Midlands,26/05/1968,0
+710,East Midlands,28/03/1973,0
+711,Yorkshire/Humberside,19/03/1946,1
+712,Guernsey/Jersey/Isle of Man,27/10/1949,0
+713,West Midlands,14/11/1961,0
+714,West Midlands,27/06/1946,0
+715,West Midlands,29/05/1961,0
+716,Guernsey/Jersey/Isle of Man,04/03/1955,1
+717,West Midlands,03/11/1949,0
+718,Greater London,30/09/1945,0
+719,Scotland,23/02/1964,0
+720,Scotland,14/08/1954,0
+721,South West,11/02/1946,0
+722,Yorkshire/Humberside,21/11/1968,1
+723,East Midlands,06/10/1949,1
+724,Greater London,11/12/1950,1
+725,South West,23/02/1968,1
+726,West Midlands,29/06/1953,0
+727,North East,10/05/1954,0
+728,Scotland,08/10/1955,0
+729,Northern Ireland,23/02/1962,1
+730,South West,13/03/1960,0
+731,Northern Ireland,13/05/1949,0
+732,Scotland,12/12/1962,0
+733,South West,01/12/1943,1
+734,Scotland,14/06/1972,0
+735,Greater London,13/07/1948,0
+736,Guernsey/Jersey/Isle of Man,14/06/1962,0
+737,Scotland,14/06/1948,0
+738,Scotland,14/06/1948,0
+739,South West,31/01/1961,0
+740,South West,08/07/1975,1
+741,West Midlands,17/08/1975,1
+742,South East,16/08/1992,1
+743,South West,07/11/1946,1
+744,Greater London,20/01/1945,1
+745,South West,24/03/1945,1
+746,Wales,13/03/1965,0
+747,West Midlands,08/01/1948,0
+748,Scotland,19/04/1946,0
+749,South East,19/09/1959,1
+750,South East,09/04/1957,0
+751,Scotland,03/09/1946,0
+752,South West,23/08/1952,1
+753,South West,14/07/1952,1
+754,Northern Ireland,30/04/1948,1
+755,North East,29/05/1958,0
+756,West Midlands,15/12/1942,0
+757,Yorkshire/Humberside,22/04/1955,1
+758,Yorkshire/Humberside,12/11/1948,1
+759,North East,17/07/1963,1
+760,Wales,01/08/1951,0
+761,West Midlands,05/02/1953,0
+762,North East,10/11/1948,0
+763,West Midlands,16/04/1963,0
+764,West Midlands,07/01/1958,0
+765,Scotland,11/04/1960,0
+766,Scotland,14/06/1962,0
+767,Greater London,05/12/1944,0
+768,North East,08/01/1962,0
+769,South West,13/05/1963,1
+770,South East,22/10/1948,1
+771,Greater London,20/03/1948,0
+772,Guernsey/Jersey/Isle of Man,14/07/1958,1
+773,South East,18/12/1942,1
+774,Greater London,12/05/1950,1
+775,North East,04/06/1966,1
+776,South East,19/10/1947,1
+777,South East,02/02/1953,1
+778,Greater London,10/10/1958,1
+779,North East,21/04/1951,0
+780,Wales,24/11/1948,0
+781,Northern Ireland,23/06/1944,0
+782,Guernsey/Jersey/Isle of Man,17/01/1960,1
+783,South East,25/02/1949,0
+784,Northern Ireland,25/01/1948,0
+785,North West,21/08/1946,0
+786,South East,26/05/1955,1
+787,North West,28/06/1942,0
+788,Scotland,21/05/1960,1
+789,West Midlands,16/02/1949,0
+790,West Midlands,12/01/1959,1
+791,East Midlands,04/07/1955,0
+792,West Midlands,29/05/1955,0
+793,Yorkshire/Humberside,31/05/1951,1
+794,West Midlands,02/12/1953,0
+795,Yorkshire/Humberside,07/07/1951,1
+796,South West,15/01/1952,1
+797,Scotland,12/09/1974,1
+798,Northern Ireland,17/02/1942,0
+799,West Midlands,27/07/1965,0
+800,Scotland,17/11/1945,1
+801,Scotland,30/06/1963,1
+802,Northern Ireland,16/09/1989,1
+803,South East,01/07/1949,1
+804,West Midlands,07/06/1949,1
+805,North East,02/07/1949,0
+806,Greater London,10/07/1947,0
+807,Yorkshire/Humberside,22/01/1941,1
+808,Wales,24/01/1950,0
+809,West Midlands,07/05/1960,1
+810,Northern Ireland,02/04/1960,0
+811,North East,02/08/1965,1
+812,West Midlands,29/05/1972,0
+813,North East,08/10/1957,1
+814,West Midlands,26/03/1948,0
+815,Scotland,15/07/1952,0
+816,Wales,27/03/1943,1
+817,West Midlands,13/05/1949,0
+818,Scotland,18/05/1953,1
+819,Guernsey/Jersey/Isle of Man,02/02/1960,0
+820,Scotland,03/12/1966,0
+821,Scotland,20/08/1951,1
+822,North East,27/02/1952,0
+823,North East,07/09/1946,1
+824,Scotland,07/09/1955,0
+825,Guernsey/Jersey/Isle of Man,21/04/1959,0
+826,Scotland,01/10/1945,0
+827,Scotland,02/07/1950,1
+828,Scotland,20/08/1950,1
+829,Guernsey/Jersey/Isle of Man,15/08/1945,1
+830,Northern Ireland,04/01/1957,1
+831,West Midlands,10/10/1951,1
+832,Guernsey/Jersey/Isle of Man,12/04/1958,0
+833,Guernsey/Jersey/Isle of Man,19/05/1955,1
+834,Scotland,19/02/1947,1
+835,East Midlands,05/12/1948,1
+836,Yorkshire/Humberside,14/12/1955,1
+837,West Midlands,30/06/1950,0
+838,West Midlands,30/04/1951,0
+839,Yorkshire/Humberside,27/05/1951,1
+840,Northern Ireland,13/11/1944,0
+841,West Midlands,16/08/1957,0
+842,Northern Ireland,20/10/1949,0
+843,Northern Ireland,02/07/1949,0
+844,Guernsey/Jersey/Isle of Man,07/03/1946,1
+845,Wales,23/10/1954,1
+846,Scotland,06/07/1952,1
+847,South West,20/08/1948,1
+848,South West,17/06/1952,1
+849,West Midlands,07/04/1978,1
+850,South West,13/04/1961,1
+851,Guernsey/Jersey/Isle of Man,22/10/1948,0
+852,West Midlands,20/03/1948,0
+853,North East,05/02/1961,0
+854,North East,15/01/1952,0
+855,Guernsey/Jersey/Isle of Man,01/06/1946,0
+856,Guernsey/Jersey/Isle of Man,11/05/1959,1
+857,Scotland,31/05/1962,0
+858,South West,09/02/1988,1
+859,South West,09/06/1949,0
+860,Northern Ireland,09/07/1943,1
+861,South West,23/03/1991,0
+862,Guernsey/Jersey/Isle of Man,12/07/1947,0
+863,Guernsey/Jersey/Isle of Man,27/06/1985,1
+864,Wales,14/11/1961,1
+865,Guernsey/Jersey/Isle of Man,01/12/1956,0
+866,South West,01/01/1950,0
+867,South West,01/01/1950,1
+868,Wales,28/04/1953,0
+869,West Midlands,02/04/1964,0
+870,Guernsey/Jersey/Isle of Man,08/03/1971,0
+871,Wales,07/04/1951,1
+872,Wales,01/01/1950,1
+873,West Midlands,18/01/1961,1
+874,East Midlands,24/04/1951,1
+875,East Midlands,01/01/1958,0
+876,North East,14/07/1958,0
+877,North East,08/05/1958,0
+878,Yorkshire/Humberside,25/09/1962,0
+879,South East,06/01/1959,1
+880,South West,14/11/1955,0
+881,West Midlands,26/09/1952,0
+882,West Midlands,07/10/1943,0
+883,South West,31/05/1944,0
+884,Guernsey/Jersey/Isle of Man,10/04/1958,0
+885,Guernsey/Jersey/Isle of Man,23/04/1953,0
+886,South West,01/03/1956,0
+887,South West,16/09/1969,0
+888,Scotland,05/02/1953,0
+889,West Midlands,17/01/1967,1
+890,Scotland,30/03/1950,1
+891,West Midlands,23/09/1953,0
+892,West Midlands,14/08/1954,1
+893,Greater London,04/08/1970,0
+894,West Midlands,29/12/1951,1
+895,Wales,05/03/1962,1
+896,Scotland,12/12/1948,0
+897,Scotland,25/02/1943,1
+898,Scotland,24/05/1950,1
+899,Scotland,02/07/1963,1
+900,Wales,25/06/1961,1
+901,Guernsey/Jersey/Isle of Man,06/04/1971,0
+902,Wales,23/02/1962,0
+903,Yorkshire/Humberside,03/09/1949,1
+904,South East,12/09/1963,1
+905,South West,07/12/1948,1
+906,South East,31/08/1965,1
+907,South West,28/08/1953,1
+908,Guernsey/Jersey/Isle of Man,03/05/1944,1
+909,South West,07/08/1961,0
+910,North West,19/04/1951,1
+911,North West,18/12/1948,1
+912,South West,16/04/1943,1
+913,North East,24/08/1981,1
+914,Scotland,15/07/1959,1
+915,West Midlands,23/03/1960,0
+916,South West,07/12/1948,0
+917,South West,16/06/1963,1
+918,Greater London,29/05/1962,0
+919,North West,08/03/1945,0
+920,West Midlands,31/05/1949,1
+921,South West,22/02/1950,1
+922,South West,31/12/1954,1
+923,North West,20/02/1942,0
+924,Yorkshire/Humberside,25/02/1954,1
+925,Yorkshire/Humberside,11/02/1957,0
+926,Yorkshire/Humberside,03/08/1963,1
+927,North West,13/09/1945,1
+928,Greater London,07/04/1951,1
+929,Guernsey/Jersey/Isle of Man,08/03/1971,1
+930,Greater London,01/01/1950,0
+931,Greater London,02/01/1958,0
+932,North East,24/03/1961,0
+933,North East,25/08/1948,0
+934,North East,04/08/1955,1
+935,Northern Ireland,03/02/1960,1
+936,Wales,25/01/1954,1
+937,North West,14/05/1960,0
+938,North East,01/11/1944,1
+939,North East,13/07/1942,0
+940,Guernsey/Jersey/Isle of Man,02/07/1954,1
+941,Guernsey/Jersey/Isle of Man,02/04/1966,0
+942,Scotland,19/10/1967,0
+943,West Midlands,27/07/1965,0
+944,West Midlands,20/02/1996,0
+945,Yorkshire/Humberside,10/05/1954,1
+946,Guernsey/Jersey/Isle of Man,11/01/1963,1
+947,South West,22/12/1954,1
+948,West Midlands,10/07/1949,0
+949,West Midlands,30/04/1956,0
+950,West Midlands,24/10/1946,1
+951,West Midlands,12/12/1952,0
+952,Greater London,11/01/1948,0
+953,South West,07/07/1946,1
+954,Greater London,01/09/1952,0
+955,Yorkshire/Humberside,12/07/1953,1
+956,Guernsey/Jersey/Isle of Man,12/03/1974,0
+957,North West,05/05/1944,0
+958,South East,02/06/1947,0
+959,Northern Ireland,16/12/1953,1
+960,Northern Ireland,07/03/1995,0
+961,East Midlands,09/01/1951,0
+962,West Midlands,27/09/1955,0
+963,East Midlands,20/06/1951,1
+964,Scotland,09/04/1949,0
+965,East Midlands,28/09/1943,0
+966,West Midlands,07/05/1963,0
+967,North West,31/12/1943,1
+968,Greater London,07/03/1955,1
+969,Wales,28/05/1954,1
+970,Northern Ireland,01/01/1950,0
+971,West Midlands,07/11/1949,1
+972,Greater London,03/03/1958,0
+973,Greater London,17/11/1945,0
+974,Yorkshire/Humberside,01/09/1956,1
+975,West Midlands,12/01/1943,0
+976,South West,14/06/1953,0
+977,South West,27/10/1955,1
+978,South West,20/04/1951,1
+979,South West,29/09/1944,1
+980,South West,28/05/1947,1
+981,Wales,05/02/1942,0
+982,West Midlands,11/07/1948,0
+983,Northern Ireland,19/03/1945,0
+984,Scotland,07/06/1950,1
+985,South West,02/05/1945,0
+986,West Midlands,26/03/1941,0
+987,Greater London,05/06/1941,1
+988,Scotland,29/02/1964,1
+989,Scotland,03/07/1947,1
+990,West Midlands,19/07/1946,1
+991,Scotland,20/06/1953,0
+992,West Midlands,09/01/1955,0
+993,Guernsey/Jersey/Isle of Man,12/03/1948,1
+994,Guernsey/Jersey/Isle of Man,28/05/1969,1
+995,West Midlands,14/05/1950,0
+996,South West,15/04/1953,0
+997,South West,05/05/1953,0
+998,Yorkshire/Humberside,14/05/1946,0
+999,Yorkshire/Humberside,02/09/1946,0
+1000,West Midlands,05/09/1949,1
+1001,Yorkshire/Humberside,14/11/1945,1
+1002,South East,17/03/1953,1
+1003,Scotland,05/08/1977,0
+1004,Guernsey/Jersey/Isle of Man,29/01/1958,0
+1005,Yorkshire/Humberside,01/09/1963,1
+1006,North East,29/08/1952,1
+1007,South West,02/07/1948,0
+1008,Yorkshire/Humberside,07/03/1965,0
+1009,South West,29/11/1945,0
+1010,South West,08/02/1941,1
+1011,South West,24/04/1941,1
+1012,Northern Ireland,07/10/1945,0
+1013,Wales,12/04/1948,1
+1014,North West,13/02/1948,1
+1015,West Midlands,18/12/1946,0
+1016,Scotland,30/06/1954,0
+1017,West Midlands,15/02/1953,1
+1018,South West,22/04/1956,0
+1019,South West,23/11/1955,0
+1020,West Midlands,04/01/1943,0
+1021,East Midlands,06/09/1953,1
+1022,Scotland,24/07/1965,0
+1023,Guernsey/Jersey/Isle of Man,01/04/1967,0
+1024,Yorkshire/Humberside,15/05/1946,1
+1025,Yorkshire/Humberside,09/01/1948,1
+1026,Guernsey/Jersey/Isle of Man,20/04/1949,1
+1027,South East,08/08/1949,1
+1028,South West,01/08/1957,0
+1029,South West,19/04/1957,1
+1030,Wales,10/03/1974,1
+1031,Wales,17/01/1958,1
+1032,Guernsey/Jersey/Isle of Man,11/08/1951,0
+1033,Guernsey/Jersey/Isle of Man,12/12/1969,1
+1034,South West,11/04/1959,0
+1035,Scotland,20/12/1972,0
+1036,Yorkshire/Humberside,28/01/1976,1
+1037,South West,05/02/1953,1
+1038,Yorkshire/Humberside,27/02/1957,1
+1039,Yorkshire/Humberside,02/11/1946,1
+1040,West Midlands,21/03/1960,0
+1041,Yorkshire/Humberside,14/03/1960,1
+1042,South West,25/09/1957,0
+1043,Northern Ireland,13/11/1962,0
+1044,Scotland,04/07/1941,0
+1045,East Midlands,13/10/1956,0
+1046,Guernsey/Jersey/Isle of Man,01/07/1947,0
+1047,Guernsey/Jersey/Isle of Man,17/04/1963,1
+1048,Greater London,06/12/1957,0
+1049,North East,16/08/1960,0
+1050,Guernsey/Jersey/Isle of Man,08/08/1962,0
+1051,Guernsey/Jersey/Isle of Man,06/03/1964,0
+1052,Yorkshire/Humberside,20/10/1963,0
+1053,West Midlands,30/04/1955,1
+1054,Yorkshire/Humberside,01/10/1956,1
+1055,Scotland,07/08/1956,1
+1056,South West,16/04/1955,1
+1057,Scotland,05/01/1950,0
+1058,Scotland,25/11/1948,1
+1059,South West,22/01/1972,0
+1060,Guernsey/Jersey/Isle of Man,06/08/1950,0
+1061,Greater London,22/06/1951,1
+1062,Yorkshire/Humberside,30/05/1952,0
+1063,Yorkshire/Humberside,26/08/1953,0
+1064,Yorkshire/Humberside,15/09/1954,0
+1065,Yorkshire/Humberside,20/10/1951,0
+1066,South West,13/12/1956,1
+1067,North East,14/08/1955,1
+1068,South West,18/12/1953,1
+1069,North East,31/12/1946,0
+1070,Scotland,11/02/1942,1
+1071,South West,14/04/1956,1
+1072,Scotland,01/03/1943,0
+1073,Scotland,17/07/1947,1
+1074,Yorkshire/Humberside,03/03/1954,0
+1075,Yorkshire/Humberside,08/05/1956,0
+1076,Northern Ireland,08/09/1945,0
+1077,North East,21/11/1943,1
+1078,South West,10/04/1960,1
+1079,West Midlands,05/10/1959,1
+1080,West Midlands,27/12/1946,0
+1081,South West,20/07/1951,1
+1082,South West,19/04/1959,1
+1083,South West,15/01/1961,0
+1084,South West,28/03/1942,1
+1085,Scotland,30/10/1946,0
+1086,Yorkshire/Humberside,09/04/1952,0
+1087,South West,04/04/1941,0
+1088,South West,10/04/1948,1
+1089,Guernsey/Jersey/Isle of Man,05/02/1953,1
+1090,Guernsey/Jersey/Isle of Man,30/10/1964,1
+1091,West Midlands,13/11/1963,1
+1092,Scotland,24/05/1973,1
+1093,North East,08/04/1964,0
+1094,West Midlands,27/03/1959,0
+1095,West Midlands,18/08/1972,0
+1096,Scotland,08/08/1941,0
+1097,Greater London,22/12/1956,0
+1098,West Midlands,19/06/1957,0
+1099,North West,30/05/1962,0
+1100,Scotland,01/10/1947,0
+1101,Guernsey/Jersey/Isle of Man,10/11/1955,1
+1102,Scotland,22/01/1958,0
+1103,East Midlands,07/06/1959,1
+1104,Scotland,02/08/1958,1
+1105,Wales,10/10/1973,0
+1106,Wales,05/06/1956,0
+1107,West Midlands,01/06/1976,0
+1108,North East,22/02/1963,0
+1109,West Midlands,01/02/1951,0
+1110,South West,09/04/1960,0
+1111,West Midlands,18/05/1942,0
+1112,South West,15/03/1943,1
+1113,West Midlands,11/02/1976,0
+1114,South West,29/07/1949,1
+1115,South West,08/06/1949,0
+1116,South West,13/09/1951,0
+1117,East Midlands,21/06/1973,0
+1118,South East,06/05/1959,0
+1119,Yorkshire/Humberside,26/07/1980,0
+1120,Northern Ireland,21/04/1961,0
+1121,North West,02/09/1945,1
+1122,South West,13/06/1965,1
+1123,West Midlands,22/09/1960,0
+1124,Guernsey/Jersey/Isle of Man,09/05/1959,1
+1125,Yorkshire/Humberside,14/01/1953,1
+1126,South West,30/07/1955,1
+1127,Yorkshire/Humberside,18/10/1942,0
+1128,Yorkshire/Humberside,23/10/1950,1
+1129,West Midlands,18/03/1955,1
+1130,West Midlands,30/12/1953,0
+1131,Yorkshire/Humberside,27/08/1974,0
+1132,Scotland,11/11/1954,0
+1133,Scotland,05/05/1945,1
+1134,South East,12/08/1957,0
+1135,North West,26/11/1948,1
+1136,South West,19/06/1943,1
+1137,North West,17/03/1950,1
+1138,North East,02/04/1964,0
+1139,South West,23/09/1941,0
+1140,Guernsey/Jersey/Isle of Man,02/08/1946,0
+1141,Greater London,22/01/1947,0
+1142,Greater London,10/09/1940,1
+1143,South West,03/07/1965,0
+1144,Scotland,16/03/1941,0
+1145,Scotland,14/08/1957,0
+1146,Scotland,03/06/1957,0
+1147,Wales,14/06/1960,1
+1148,Scotland,30/03/1947,1
+1149,Scotland,13/07/1968,1
+1150,South East,01/02/1976,0
+1151,South East,09/01/1948,0
+1152,South East,14/03/1952,0
+1153,Guernsey/Jersey/Isle of Man,28/09/1943,0
+1154,North East,10/09/1983,0
+1155,Guernsey/Jersey/Isle of Man,10/06/1947,0
+1156,West Midlands,16/11/1951,0
+1157,Scotland,18/05/1941,1
+1158,Guernsey/Jersey/Isle of Man,29/07/1981,0
+1159,West Midlands,04/10/1955,0
+1160,East Midlands,22/10/1948,0
+1161,West Midlands,01/04/1955,0
+1162,East Midlands,15/01/1972,0
+1163,Yorkshire/Humberside,09/11/1970,0
+1164,West Midlands,17/12/1956,0
+1165,West Midlands,03/03/1956,0
+1166,West Midlands,18/05/1970,0
+1167,West Midlands,07/12/1948,1
+1168,Guernsey/Jersey/Isle of Man,31/10/1945,0
+1169,North East,12/08/1959,0
+1170,North East,06/05/1968,1
+1171,North West,25/05/1949,1
+1172,Guernsey/Jersey/Isle of Man,24/07/1954,1
+1173,Guernsey/Jersey/Isle of Man,27/06/1947,0
+1174,South West,19/10/1959,0
+1175,Scotland,31/03/1970,1
+1176,West Midlands,01/12/1951,0
+1177,Yorkshire/Humberside,21/05/1944,0
+1178,Guernsey/Jersey/Isle of Man,20/10/1942,0
+1179,Guernsey/Jersey/Isle of Man,02/03/1970,0
+1180,North East,19/05/1947,0
+1181,North East,10/07/1950,1
+1182,North East,11/08/1954,0
+1183,Wales,01/08/1948,1
+1184,South West,29/08/1944,1
+1185,West Midlands,28/02/1951,0
+1186,Guernsey/Jersey/Isle of Man,25/11/1950,0
+1187,West Midlands,02/11/1950,0
+1188,Guernsey/Jersey/Isle of Man,30/08/1946,0
+1189,Yorkshire/Humberside,20/01/1957,1
+1190,Yorkshire/Humberside,02/03/1941,1
+1191,Yorkshire/Humberside,08/03/1963,0
+1192,South East,23/06/1958,1
+1193,Guernsey/Jersey/Isle of Man,27/11/1944,1
+1194,South East,02/05/1948,1
+1195,South West,09/02/1953,1
+1196,South West,16/03/1956,0
+1197,South West,14/11/1961,0
+1198,Guernsey/Jersey/Isle of Man,19/08/1955,0
+1199,Wales,07/01/1962,0
+1200,West Midlands,10/05/1948,1
+1201,Guernsey/Jersey/Isle of Man,01/07/1958,0
+1202,North East,02/03/1948,1
+1203,North East,15/05/1957,1
+1204,Scotland,20/06/1952,0
+1205,South West,23/06/1994,1
+1206,South West,08/07/1950,1
+1207,Scotland,14/07/1946,0
+1208,Scotland,14/09/1988,0
+1209,Guernsey/Jersey/Isle of Man,20/06/1959,0
+1210,Guernsey/Jersey/Isle of Man,07/08/1945,0
+1211,West Midlands,23/03/1960,1
+1212,Guernsey/Jersey/Isle of Man,14/11/1951,0
+1213,West Midlands,30/06/1956,0
+1214,Scotland,30/04/1970,0
+1215,South West,28/01/1975,1
+1216,South West,06/07/1974,1
+1217,South West,27/04/1974,1
+1218,North West,02/02/1964,0
+1219,North West,28/06/1964,0
+1220,North West,27/06/1972,0
+1221,Yorkshire/Humberside,03/03/1978,0
+1222,Wales,23/05/1945,0
+1223,North East,16/06/1963,0
+1224,Yorkshire/Humberside,07/03/1954,0
+1225,Greater London,12/11/1953,0
+1226,Guernsey/Jersey/Isle of Man,12/01/1973,0
+1227,Guernsey/Jersey/Isle of Man,22/08/1954,0
+1228,Wales,14/02/1958,1
+1229,South West,16/06/1959,0
+1230,Scotland,03/04/1949,0
+1231,Wales,02/09/1955,0
+1232,Scotland,19/03/1961,0
+1233,Scotland,25/05/1971,0
+1234,Guernsey/Jersey/Isle of Man,21/01/1969,0
+1235,West Midlands,13/12/1951,1
+1236,Guernsey/Jersey/Isle of Man,25/09/1952,0
+1237,Scotland,22/01/1956,0
+1238,Guernsey/Jersey/Isle of Man,03/09/1957,0
+1239,Scotland,31/07/1956,0
+1240,Northern Ireland,10/11/1949,0
+1241,Wales,29/11/1951,1
+1242,Scotland,03/05/1971,0
+1243,Guernsey/Jersey/Isle of Man,12/04/1944,0
+1244,Northern Ireland,19/08/1961,0
+1245,North East,14/08/1951,0
+1246,Wales,12/12/1952,0
+1247,South East,28/12/1951,0
+1248,Greater London,11/09/1952,0
+1249,Wales,04/03/1947,1
+1250,Scotland,22/07/1952,1
+1251,Scotland,31/08/1957,1
+1252,Scotland,07/08/1958,1
+1253,Scotland,25/11/1959,0
+1254,North East,13/02/1947,1
+1255,West Midlands,10/08/1966,0
+1256,Guernsey/Jersey/Isle of Man,03/08/1957,0
+1257,Guernsey/Jersey/Isle of Man,09/02/1953,1
+1258,East Anglia,15/04/1945,0
+1259,North East,01/05/1957,1
+1260,West Midlands,26/07/1955,1
+1261,South East,13/09/1945,1
+1262,Yorkshire/Humberside,17/08/1942,0
+1263,South West,19/05/1957,1
+1264,East Midlands,11/04/1952,0
+1265,Wales,20/04/1952,0
+1266,West Midlands,07/11/1944,1
+1267,South East,20/08/1960,1
+1268,Wales,18/04/1945,0
+1269,Yorkshire/Humberside,26/06/1959,0
+1270,West Midlands,11/09/1952,1
+1271,Wales,02/10/1952,0
+1272,West Midlands,09/05/1951,0
+1273,South West,11/02/1948,1
+1274,East Midlands,02/02/1945,0
+1275,Scotland,21/03/1948,0
+1276,Scotland,22/03/1948,0
+1277,Scotland,13/02/1951,0
+1278,North East,08/03/1971,1
+1279,West Midlands,01/01/1950,0
+1280,Guernsey/Jersey/Isle of Man,04/02/1968,0
+1281,West Midlands,12/04/1976,0
+1282,North East,01/01/1950,0
+1283,North East,01/01/1950,0
+1284,Scotland,25/08/1963,0
+1285,North East,01/01/1950,0
+1286,East Midlands,01/01/1950,0
+1287,West Midlands,16/11/1951,0
+1288,Scotland,09/11/1957,0
+1289,Guernsey/Jersey/Isle of Man,21/11/1949,1
+1290,Scotland,16/01/1953,1
+1291,East Midlands,19/05/1950,1
+1292,Northern Ireland,17/02/1950,0
+1293,Yorkshire/Humberside,01/08/1954,1
+1294,Yorkshire/Humberside,14/09/1953,0
+1295,Guernsey/Jersey/Isle of Man,12/03/1949,1
+1296,Wales,04/08/1943,0
+1297,South West,29/10/1956,1
+1298,South West,26/09/1957,1
+1299,Greater London,17/03/1956,1
+1300,Guernsey/Jersey/Isle of Man,15/02/1955,0
+1301,North East,29/07/1950,0
+1302,North West,15/09/1972,1
+1303,North West,02/07/1980,1
+1304,South West,21/03/1964,0
+1305,South West,12/04/1947,0
+1306,North East,23/09/1972,1
+1307,North East,07/11/1975,0
+1308,South West,05/12/1971,1
+1309,Guernsey/Jersey/Isle of Man,28/02/1971,0
+1310,Scotland,27/05/1953,0
+1311,South West,28/03/1956,1
+1312,Greater London,04/03/1945,0
+1313,Guernsey/Jersey/Isle of Man,12/01/1951,1
+1314,Yorkshire/Humberside,02/09/1956,0
+1315,North West,28/02/1950,0
+1316,Guernsey/Jersey/Isle of Man,03/07/1958,0
+1317,West Midlands,25/06/1942,0
+1318,South West,21/06/1945,1
+1319,North West,13/05/1970,0
+1320,Scotland,04/10/1956,0
+1321,East Midlands,01/01/1950,0
+1322,East Midlands,01/01/1950,0
+1323,East Midlands,30/07/1970,0
+1324,Guernsey/Jersey/Isle of Man,01/01/1950,0
+1325,Yorkshire/Humberside,03/08/1963,1
+1326,Wales,07/04/1951,1
+1327,South West,24/03/1961,1
+1328,Wales,08/03/1971,1
+1329,North East,15/02/1959,1
+1330,Guernsey/Jersey/Isle of Man,01/01/1950,0
+1331,Guernsey/Jersey/Isle of Man,05/02/1953,0
+1332,Yorkshire/Humberside,28/02/1971,1
+1333,West Midlands,21/04/1978,0
+1334,South East,01/01/1950,0
+1335,South West,16/07/1961,0
+1336,South West,01/01/1950,0
+1337,Yorkshire/Humberside,03/08/1963,0
+1338,West Midlands,02/01/1958,0
+1339,Wales,01/01/1950,1
+1340,Wales,01/01/1950,0
+1341,Wales,05/02/1953,1
+1342,South West,01/01/1950,0
+1343,West Midlands,01/01/1950,0
+1344,Northern Ireland,07/10/1965,0
+1345,West Midlands,19/04/1946,0
+1346,Guernsey/Jersey/Isle of Man,15/01/1953,1
+1347,South East,21/11/1947,0
+1348,Scotland,19/04/1950,0
+1349,Wales,04/05/1956,1
+1350,Scotland,01/04/1964,1
+1351,West Midlands,02/02/1972,0
+1352,West Midlands,31/03/1952,0
+1353,South West,03/04/1949,1
+1354,Scotland,08/06/1946,1
+1355,North East,24/11/1954,0
+1356,South West,15/01/1977,0
+1357,South East,16/02/1956,0
+1358,Scotland,18/05/1952,0
+1359,Guernsey/Jersey/Isle of Man,24/04/1953,0
+1360,Scotland,05/11/1946,1
+1361,Scotland,23/02/1942,1
+1362,Scotland,05/11/1947,1
+1363,South West,15/08/1959,1
+1364,Scotland,19/01/1958,0
+1365,Yorkshire/Humberside,24/09/1951,0
+1366,West Midlands,13/02/1947,1
+1367,West Midlands,07/10/1944,1
+1368,North East,15/03/1952,0
+1369,Yorkshire/Humberside,30/05/1945,1
+1370,West Midlands,01/01/1950,1
+1371,Guernsey/Jersey/Isle of Man,01/01/1950,0
+1372,South West,01/01/1950,0
+1373,West Midlands,01/01/1950,0
+1374,South East,16/04/1986,0
+1375,South West,31/12/1964,0
+1376,South East,03/03/1998,1
+1377,Guernsey/Jersey/Isle of Man,05/03/2002,1
+1378,South West,03/02/1992,0
+1379,Greater London,30/12/1957,1
+1380,Scotland,01/07/1971,1
+1381,North East,26/03/1978,0
+1382,Yorkshire/Humberside,01/01/1950,1
+1383,North East,24/02/1954,0
+1384,Guernsey/Jersey/Isle of Man,11/11/1957,0
+1385,North West,04/06/1971,1
+1386,Scotland,21/01/1961,0
+1387,Northern Ireland,13/03/1956,0
+1388,West Midlands,30/06/1946,1
+1389,North East,27/12/1946,1
+1390,East Midlands,30/06/1957,0
+1391,South East,03/08/1960,1
+1392,South East,07/02/1947,0
+1393,North West,26/07/1947,0
+1394,South East,04/06/1967,1
+1395,Guernsey/Jersey/Isle of Man,07/03/1949,1
+1396,South East,26/09/1970,0
+1397,Guernsey/Jersey/Isle of Man,05/03/1954,0
+1398,South West,01/01/1950,0
+1399,West Midlands,10/03/1957,1
+1400,Scotland,23/12/1967,0
